@@ -1,7 +1,7 @@
 This file contains location and license info for all data utilized in the root project.
 
 ### Dalia Basic Income Data:
-Raw basic income [survey data (2016)](/Dalia/basic_income_dataset_dalia.csv) and [documentation](/Dalia/codebook_basicincome.pdf) codebook were accessed from [Kaggle](https://www.kaggle.com/daliaresearch/basic-income-survey-european-dataset), under the publicly available creative commons license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Raw [Basic Income Survey (2016)](/Dalia/basic_income_dataset_dalia.csv) data and [documentation](/Dalia/codebook_basicincome.pdf) codebook were accessed from [Kaggle](https://www.kaggle.com/daliaresearch/basic-income-survey-european-dataset), under the publicly available creative commons license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
 ### World Bank Youth Unemployment Rate Data:
