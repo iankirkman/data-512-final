@@ -1,4 +1,4 @@
-## Influential Characteristics of Opinion: A Basic Income Study
+## Abstract: Influential Characteristics of Opinion: A Basic Income Study
 Released by: Ian Kirkman ikirkman@uw.edu 11/9/2017
 
 ### Project Goal
