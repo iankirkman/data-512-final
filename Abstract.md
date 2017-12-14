@@ -14,7 +14,6 @@ The Dalia survey data includes basic income opinion responses and demographic (a
 
 As a supplement to the Dalia data, we will also explore economic and quality of life issues in each of the represented countries. Some publicly available datasets that have been preliminarily identified to assist in this endeavor include:
  - [IHME Global Burden of Disease Study 2016](http://ghdx.healthdata.org/gbd-2016)
- - [World Bank - World Development Indicators](https://www.kaggle.com/worldbank/world-development-indicators)
  - [World Bank - Youth Unemployment Rates](https://www.kaggle.com/sovannt/world-bank-youth-unemployment)
  - [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness)
 
